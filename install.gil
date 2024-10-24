@@ -1,0 +1,5 @@
+{
+    "DIR_MACRO": "INFRA_UTILS",
+    "PROJECT_NAME": "infra-utils",
+    "BASHRC": "bashrc.sh"
+}
